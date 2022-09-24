@@ -1,0 +1,9 @@
+/.idea/
+/server_log_and_db/
+/config/config.cfg
+*.session
+*.session-journal
+*.db
+*.log
+*.txt
+*test*
